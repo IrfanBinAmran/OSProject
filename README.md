@@ -43,7 +43,7 @@ First step, open the docker application:<br>
 Secondly on the docker home menu, look for Mongo<br>
 ![image](https://user-images.githubusercontent.com/82078205/174483773-a88913c9-c1b7-4ad9-9f78-2561412d5872.png)
 <br> 
-Make sure a connection to the internet is available and click run.<br>
+Make sure a connection to the internet is active and click on run.<br>
 <br>
 <br>
 On the images page, there we can see the progress bar for the run.<br>
