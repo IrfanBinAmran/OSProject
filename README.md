@@ -1,10 +1,8 @@
 # OSProject
 
 Members: <br>
-IRFAN BIN AMRAN <br>
-NUR AIENA HAJEERAH BT ABDUL HAKIM <br>
-NUR SYAZWANI BINTI JAMALUDIN <br>
-SITI NUR ABILAH BINTI KASIRIN <br>
+IRFAN BIN AMRAN 1923607<br>
+<br>
 
 Lecturer Dr. Rizal Bin Mohd. Nor
 
