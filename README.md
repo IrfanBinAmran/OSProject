@@ -8,11 +8,9 @@ SITI NUR ABILAH BINTI KASIRIN <br>
 
 Lecturer Dr. Rizal Bin Mohd. Nor
 
-
 <br>
 <br>
-<br>
-Next, We will download the docker application, with the link : https://docs.docker.com/desktop/windows/install/ <br>
+First off, we will download the docker application, with the link : https://docs.docker.com/desktop/windows/install/ <br>
 
 How to start running docker: Search docker on your desktops and click the docker, The docker will ask you to accept the term and you need to accept the term to continue.
 <br>
